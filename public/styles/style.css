@@ -86,6 +86,7 @@ main{
   flex-direction: row-reverse;
   
   font-size: 0.9em;
+  font-weight: 700;
   color: var(--dark-gray-blue);
 
 }
@@ -143,3 +144,6 @@ main{
   color: white;
   font-weight: 600;
 }
+
+
+

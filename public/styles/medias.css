@@ -2,7 +2,7 @@
 
     body{
         display: flex;
-        background-color: var(--pale-blue);
+        background-color: var(--white);
         justify-content: center; align-items: center;
 
     }
@@ -13,10 +13,11 @@
         max-height: 512px;
 
         background-color: var(--white);
+        box-shadow: 0px 0px 30px 20px var(--pale-blue) ;
 
         border-radius: 30px;
 
-        transform: scale(0.7);
+        transform: scale(0.8);
     }
 
     .result-ct{

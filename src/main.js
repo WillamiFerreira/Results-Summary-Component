@@ -16,5 +16,5 @@ for (let i = 0; i < 4; i++){
     icon_and_title_ct.appendChild(item_category);
     score.appendChild(item_score);
 
-
 }
+
