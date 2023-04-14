@@ -1,8 +1,8 @@
 import data from '../data/data.json' assert {type: 'json'};
 
 for (let i = 0; i < 4; i++){
-    let icon_and_title_ct = document.querySelectorAll('#icon_and_title')[i];
-    let score = document.querySelectorAll("#score")[i];
+    let icon_and_title_ct = document.querySelectorAll('.icon_and_title')[i];
+    let score = document.querySelectorAll(".score")[i];
 
     let item_icon = document.createElement('img');
     let item_category = document.createElement('p');

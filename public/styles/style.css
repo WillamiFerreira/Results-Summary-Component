@@ -14,12 +14,14 @@ main{
   padding: 24px 60px 40px;
 }
 
-.result-ct p{
+.result-ct p, h1{
   color: wheat;
 }
 
-.result-ct > p:first-child{
+.result-ct > h1:first-child{
   margin: 0 0 25px 0;
+  
+  font-size: 1.3em;
   font-weight: 700;
   color: var(--light-lavender);
 }
@@ -77,11 +79,11 @@ main{
 
 }
 
-#icon_and_title{
+.icon_and_title{
   display: flex;
 }
 
-#score{
+.score{
   display: flex;
   flex-direction: row-reverse;
   

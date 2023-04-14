@@ -44,6 +44,7 @@ body{
     font-size:18px;
 }
 
-p{
+
+p, h1{
     font-family: var(--font);
 }
