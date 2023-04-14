@@ -1,6 +1,6 @@
 @font-face {
     font-family: HankenGrotesk;
-    src: url('/public/fonts/HankenGrotesk-VariableFont_wght.ttf');
+    src: url('../fonts/HankenGrotesk-VariableFont_wght.ttf');
 }
 :root{
     --font: HankenGrotesk;
